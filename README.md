@@ -23,4 +23,4 @@ This project focuses on uncovering key trends and customer behavior using a Diwa
 
 ---
 
-> Simple yet impactful project to showcase your **EDA** and **data storytelling** skills.
+> Simple yet impactful project to showcase **EDA** and **data storytelling** skills.
